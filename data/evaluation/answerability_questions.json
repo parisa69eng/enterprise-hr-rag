@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How many days of parental leave do employees receive?",
+    "expected_answerable": false,
+    "reason": "The documents do not define parental leave."
+  },
+  {
+    "question": "How many days of bereavement leave are allowed?",
+    "expected_answerable": false,
+    "reason": "Bereavement leave is not covered."
+  },
+  {
+    "question": "Is sick leave paid or unpaid?",
+    "expected_answerable": false,
+    "reason": "The sick leave policy does not specify payment."
+  },
+  {
+    "question": "How long is the employee probation period?",
+    "expected_answerable": false,
+    "reason": "The remote work policy mentions probation but does not specify its duration."
+  },
+  {
+    "question": "Does the company provide dental insurance?",
+    "expected_answerable": false,
+    "reason": "Employee insurance benefits are not covered."
+  },
+  {
+    "question": "What is the maximum hotel reimbursement per night?",
+    "expected_answerable": false,
+    "reason": "The expense policy does not specify a hotel reimbursement limit."
+  }
+]

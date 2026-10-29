@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Are public holidays counted as annual leave?",
+    "answer": "No. Public holidays are not included in the 25-day annual leave allowance.",
+    "expected_facts": [
+      [
+        "public holidays are excluded",
+        "public holidays are not included",
+        "public holidays do not count toward annual leave"
+      ]
+    ]
+  },
+  {
+    "question": "How far in advance should employees request annual leave?",
+    "answer": "Employees should submit annual leave requests at least five working days before the planned leave date.",
+    "expected_facts": [
+      [
+        "at least 5 working days",
+        "a minimum of 5 working days",
+        "at least five working days"
+      ]
+    ]
+  },
+  {
+    "question": "How many unused annual leave days can be carried over?",
+    "answer": "Employees may carry over up to five unused annual leave days into the following calendar year.",
+    "expected_facts": [
+      [
+        "up to 5 days",
+        "5 unused annual leave days",
+        "up to five unused annual leave days"
+      ],
+      [
+        "following year",
+        "following calendar year",
+        "next year"
+      ]
+    ]
+  },
+  {
+    "question": "Who must approve a remote work arrangement?",
+    "answer": "A manager must approve the remote work request before the arrangement begins.",
+    "expected_facts": [
+      [
+        "manager approval",
+        "approved by the manager",
+        "manager must approve",
+        "a manager must approve"
+      ]
+    ]
+  }
+]

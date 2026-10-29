@@ -1,0 +1,122 @@
+[
+  {
+    "question": "How many annual leave days do employees receive?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "Are public holidays included in annual leave?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "How far in advance should employees request leave?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "What happens if an employee is sick for more than three consecutive working days?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Sick Leave"
+  },
+  {
+    "question": "How many unused annual leave days can be carried over?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Carryover"
+  },
+  {
+    "question": "How many days per week can eligible employees work remotely?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Remote Work Schedule"
+  },
+  {
+    "question": "Who must approve a remote work request?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "Does the company provide laptops for remote work?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Equipment"
+  },
+  {
+    "question": "What expenses are eligible for reimbursement?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Eligible Expenses"
+  },
+  {
+    "question": "Within how many days must expense claims be submitted?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Submission Deadline"
+  },
+  {
+    "question": "When are itemized receipts required?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Receipts"
+  },
+  {
+    "question": "Do personal expenses qualify for reimbursement?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Eligible Expenses"
+  },
+{
+  "question": "What is the minimum notice for taking annual leave?",
+  "expected_source": "leave_policy.md",
+  "expected_section": "Annual Leave"
+},
+{
+  "question": "Can public holidays be deducted from annual leave entitlement?",
+  "expected_source": "leave_policy.md",
+  "expected_section": "Annual Leave"
+},
+{
+  "question": "What documentation is needed for an extended sickness absence?",
+  "expected_source": "leave_policy.md",
+  "expected_section": "Sick Leave"
+},
+{
+  "question": "When do carried-over leave days expire?",
+  "expected_source": "leave_policy.md",
+  "expected_section": "Carryover"
+},
+{
+  "question": "What conditions must be met before an employee can work remotely?",
+  "expected_source": "remote_work_policy.md",
+  "expected_section": "Eligibility"
+},
+{
+  "question": "Are employees allowed to work from home every day?",
+  "expected_source": "remote_work_policy.md",
+  "expected_section": "Remote Work Schedule"
+},
+{
+  "question": "What security responsibilities do remote workers have?",
+  "expected_source": "remote_work_policy.md",
+  "expected_section": "Equipment"
+},
+{
+  "question": "How should an employee apply for remote work?",
+  "expected_source": "remote_work_policy.md",
+  "expected_section": "Approval"
+},
+{
+  "question": "Can I claim reimbursement for personal purchases?",
+  "expected_source": "expense_reimbursement_policy.md",
+  "expected_section": "Eligible Expenses"
+},
+{
+  "question": "What proof must I provide for an expensive business purchase?",
+  "expected_source": "expense_reimbursement_policy.md",
+  "expected_section": "Receipts"
+},
+{
+  "question": "Who is responsible for authorizing expense claims?",
+  "expected_source": "expense_reimbursement_policy.md",
+  "expected_section": "Approval"
+},
+{
+  "question": "What is the deadline for submitting a reimbursement request?",
+  "expected_source": "expense_reimbursement_policy.md",
+  "expected_section": "Submission Deadline"
+}
+]
