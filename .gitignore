@@ -1,3 +1,4 @@
+
 # Python
 __pycache__/
 *.py[cod]
@@ -25,8 +26,19 @@ htmlcov/
 .idea/
 .DS_Store
 
-# Local databases and generated vector stores
-data/qdrant/
+# Qdrant local database
+# Keep metadata and the prepared vector database for deployment.
+# Ignore lock files and other local runtime files.
+data/qdrant/*
+!data/qdrant/meta.json
+!data/qdrant/collection/
+data/qdrant/collection/*
+!data/qdrant/collection/hr_documents/
+data/qdrant/collection/hr_documents/*
+!data/qdrant/collection/hr_documents/storage.sqlite
+data/qdrant/.lock
+
+# Private data
 data/private/
 
 # Logs

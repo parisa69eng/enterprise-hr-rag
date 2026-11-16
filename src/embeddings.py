@@ -1,3 +1,4 @@
+
 import os
 
 from dotenv import load_dotenv
@@ -6,35 +7,40 @@ from openai import OpenAI
 
 load_dotenv()
 
-API_KEY = os.getenv("AVALAI_API_KEY")
-BASE_URL = os.getenv(
-    "AVALAI_BASE_URL",
-    "https://api.avalai.ir/v1",
-)
-EMBEDDING_MODEL = os.getenv(
-    "EMBEDDING_MODEL",
-    "text-embedding-3-small",
-)
-
 
 def get_embedding_client() -> OpenAI:
-    if not API_KEY:
+    api_key = os.getenv("AVALAI_API_KEY")
+
+    base_url = os.getenv(
+        "AVALAI_BASE_URL",
+        "https://api.avalai.ir/v1",
+    )
+
+    if not api_key:
         raise ValueError(
-            "AVALAI_API_KEY is missing from .env"
+            "AVALAI_API_KEY is not configured."
         )
 
     return OpenAI(
-        api_key=API_KEY,
-        base_url=BASE_URL,
+        api_key=api_key,
+        base_url=base_url,
     )
 
 
 def create_embedding(text: str) -> list[float]:
+    if not text or not text.strip():
+        raise ValueError("Text cannot be empty.")
+
+    embedding_model = os.getenv(
+        "EMBEDDING_MODEL",
+        "text-embedding-3-small",
+    )
+
     client = get_embedding_client()
 
     response = client.embeddings.create(
-        model=EMBEDDING_MODEL,
-        input=text,
+        model=embedding_model,
+        input=text.strip(),
     )
 
     return response.data[0].embedding
