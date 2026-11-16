@@ -292,7 +292,7 @@ Potential future improvements:
 
 ## 11. Author
 
-**Parisa Khatibi**
+**Parisa Khatibi Damavandi**
 
 - [GitHub](https://github.com/parisa69eng)
 - [LinkedIn](https://www.linkedin.com/in/parisa-khatibi-damavandi/)
