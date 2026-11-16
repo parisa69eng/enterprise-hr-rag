@@ -1,5 +1,3 @@
-
-cat > README.md <<'EOF'
 # Enterprise HR RAG Assistant
 
 An experimental Retrieval-Augmented Generation (RAG) system for answering employee questions using internal HR policy documents.
