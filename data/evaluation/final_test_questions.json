@@ -1,0 +1,154 @@
+
+[
+  {
+    "question": "How many vacation days does a full-year employee receive?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "Are national public holidays deducted from someone's yearly holiday balance?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "How far ahead should a person arrange their time off?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "Which online platform is used for requesting days off?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "Who examines an employee's planned absence before it is accepted?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "What is the required notification when a worker becomes too unwell to work?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Sick Leave"
+  },
+  {
+    "question": "At what point must an employee submit medical evidence for being ill?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Sick Leave"
+  },
+  {
+    "question": "How many unused holiday days may be transferred into the next year?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Carryover"
+  },
+  {
+    "question": "By which date must transferred vacation days be taken?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Carryover"
+  },
+  {
+    "question": "What is the maximum amount of annual time off that can remain unused for the following year?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Carryover"
+  },
+  {
+    "question": "Can a newly hired person work outside the office before finishing their initial trial period?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Eligibility"
+  },
+  {
+    "question": "What employment milestone must be completed before home-based work becomes an option?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Eligibility"
+  },
+  {
+    "question": "How many weekly working days may be spent away from the office?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Remote Work Schedule"
+  },
+  {
+    "question": "Does the organization have the right to designate mandatory workplace attendance days?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Remote Work Schedule"
+  },
+  {
+    "question": "What device is made available by the employer for off-site work?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Equipment"
+  },
+  {
+    "question": "What must staff do to prevent unauthorized exposure of company information while away from the office?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Equipment"
+  },
+  {
+    "question": "Who is expected to maintain a safe environment when performing duties outside company premises?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Equipment"
+  },
+  {
+    "question": "Through which internal service should an employee initiate an off-site working arrangement?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "Can an employee begin working remotely before receiving authorization from their supervisor?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "What must happen before an alternative working arrangement takes effect?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "Which types of purchases made for business purposes qualify for repayment?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Eligible Expenses"
+  },
+  {
+    "question": "Can an employee receive money back for items bought solely for personal use?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Eligible Expenses"
+  },
+  {
+    "question": "Would buying stationery for a work task fall under reimbursable spending?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Eligible Expenses"
+  },
+  {
+    "question": "What is the permitted time window for filing a request to recover business spending?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Submission Deadline"
+  },
+  {
+    "question": "Is the filing period measured in working days or ordinary calendar days?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Submission Deadline"
+  },
+  {
+    "question": "What documentation should accompany a purchase that costs more than twenty-five euros?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Receipts"
+  },
+  {
+    "question": "What should someone retain when a purchase is worth twenty euros?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Receipts"
+  },
+  {
+    "question": "Is a detailed proof of payment necessary for every small purchase?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Receipts"
+  },
+  {
+    "question": "What action may the organization take when a submitted expense does not satisfy the policy?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "Who must authorize an employee's request to recover business costs?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Approval"
+  }
+]
+

@@ -1,0 +1,94 @@
+
+[
+  {
+    "question": "Which system do staff use to place a vacation request?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "Who is responsible for considering a vacation request?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Annual Leave"
+  },
+  {
+    "question": "What should an employee do when illness prevents them from attending work?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Sick Leave"
+  },
+  {
+    "question": "When is a doctor's note compulsory for an illness-related absence?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Sick Leave"
+  },
+  {
+    "question": "What is the final date for using the previous year's unused holiday allowance?",
+    "expected_source": "leave_policy.md",
+    "expected_section": "Carryover"
+  },
+  {
+    "question": "Can someone still in their probation period work remotely?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Eligibility"
+  },
+  {
+    "question": "Is remote work capped or unlimited during the week?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Remote Work Schedule"
+  },
+  {
+    "question": "Can the company choose which days employees are expected at the office?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Remote Work Schedule"
+  },
+  {
+    "question": "Who supplies the computer used for working remotely?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Equipment"
+  },
+  {
+    "question": "What should remote staff do to keep company data confidential?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Equipment"
+  },
+  {
+    "question": "Where do employees submit a request to work from home?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "Must authorization be received before the remote arrangement starts?",
+    "expected_source": "remote_work_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "Which work-related purchases can be reimbursed?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Eligible Expenses"
+  },
+  {
+    "question": "Are employees able to expense private shopping?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Eligible Expenses"
+  },
+  {
+    "question": "How long after incurring a cost can a reimbursement claim be made?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Submission Deadline"
+  },
+  {
+    "question": "What happens if a claim doesn't comply with the reimbursement rules?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Approval"
+  },
+  {
+    "question": "What should employees do with receipts for expenses at or below €25?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Receipts"
+  },
+  {
+    "question": "At what amount does a detailed receipt become mandatory?",
+    "expected_source": "expense_reimbursement_policy.md",
+    "expected_section": "Receipts"
+  }
+]
+
