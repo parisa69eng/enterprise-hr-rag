@@ -295,5 +295,5 @@ Potential future improvements:
 **Parisa Khatibi**
 
 - [GitHub](https://github.com/parisa69eng)
-- [LinkedIn](https://www.linkedin.com/in/parisa-khatibi-394b7579/)
+- [LinkedIn](https://www.linkedin.com/in/parisa-khatibi-damavandi/)
 EOF
