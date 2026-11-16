@@ -296,4 +296,3 @@ Potential future improvements:
 
 - [GitHub](https://github.com/parisa69eng)
 - [LinkedIn](https://www.linkedin.com/in/parisa-khatibi-damavandi/)
-EOF
